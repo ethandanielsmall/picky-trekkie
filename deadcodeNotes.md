@@ -1,5 +1,4 @@
 MVPS
-
 - make html and buttons
 - make database
 - make queries that are made when buttons are clicked, so when a querry is called, it can pull up all the episodes in a given category
