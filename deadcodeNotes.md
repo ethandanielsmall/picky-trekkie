@@ -21,3 +21,5 @@ https://dev.mysql.com/doc/refman/8.0/en/choosing-types.html
 https://github.com/ethandanielsmall/04-javascript-quiz/blob/main/assets/script.js
 
 https://github.com/ethandanielsmall/password-generator/blob/main/Develop/script.js
+
+https://uiverse.io/MuhammadHasann/silent-lizard-44
