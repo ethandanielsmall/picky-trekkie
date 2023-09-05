@@ -23,3 +23,20 @@ https://github.com/ethandanielsmall/04-javascript-quiz/blob/main/assets/script.j
 https://github.com/ethandanielsmall/password-generator/blob/main/Develop/script.js
 
 https://uiverse.io/MuhammadHasann/silent-lizard-44
+
+// types of vibes:
+
+// cozy -> cozy (cozy)
+// angry -> hope (justice served/hopeful)
+// bored -> phili (philisophical/eps that make you think)
+// spooky -> spooky (spooky/scary)
+// ??? -> funni (humerous)
+// depressed -> hope (justice served/hopeful)
+// like a downer -> sad (sad)
+// neuteral -> other (other)
+// i don't know -> other (other)
+
+// line of questioning
+// what series would you like to watch
+// what season do you prefer
+// how do you feel?
