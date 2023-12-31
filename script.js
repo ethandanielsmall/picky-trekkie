@@ -6,11 +6,12 @@
 let sec = document.querySelector("#section")
 let timeout;
 
+// document.getElementById("buttonz").onclick = engage();
+
 function engage() {
     // when choices 1, 2, and 3 are 'true'
     // load
-    sec.style.display="inline";
     console.log("engage");
 };
 
-document.getElementById("button").onclick = engage();
+engage();
