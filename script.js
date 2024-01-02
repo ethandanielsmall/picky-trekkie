@@ -5,8 +5,7 @@
 
 let sec = document.querySelector("#section")
 let timeout;
-
-// document.getElementById("buttonz").onclick = engage();
+let findAnEpisode = '[]'
 
 function engage() {
     // when choices 1, 2, and 3 are 'true'
