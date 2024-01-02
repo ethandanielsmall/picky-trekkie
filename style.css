@@ -6,15 +6,29 @@ html, body {
   padding:0;
 }
 
+p {
+  color: white;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 125%;
+  margin-bottom: 1px;
+  color: white
+}
+
+b {
+  color: rgb(223, 66, 92);
+  font-size: 200%;
+}
+
 #warning {
   opacity: 1;
-  -moz-animation: fadeOutAnimation 2s ease-in 4s forwards;
+  -moz-animation: fadeOutAnimation 2s ease-in 5s forwards;
   /* Firefox */
-  -webkit-animation: fadeOutAnimation 2s ease-in 4s forwards;
+  -webkit-animation: fadeOutAnimation 2s ease-in 5s forwards;
   /* Safari and Chrome */
-  -o-animation: fadeOutAnimation 2s ease-in 4s forwards;
+  -o-animation: fadeOutAnimation 2s ease-in 5s forwards;
   /* Opera */
-  animation: fadeOutAnimation 2s ease-in 4s forwards;
+  animation: fadeOutAnimation 2s ease-in 5s forwards;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
@@ -43,7 +57,7 @@ h1 {
   font-size: 500%;
   margin-bottom: 1px;
   color: white
-}
+  }
   
   .button-container-div {
       text-align: center;
