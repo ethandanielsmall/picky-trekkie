@@ -1,3 +1,5 @@
+hours spent here: 1
+
 MVPS
 - make html and buttons
 - make database
