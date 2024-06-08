@@ -24,8 +24,8 @@
     {"series":"tng", "season":"3", "episodeNumber":"22", "title":"the most toys", "mood":"general"},
     {"series":"tng", "season":"3", "episodeNumber":"23", "title":"sarek", "mood":"general"},
     {"series":"tng", "season":"3", "episodeNumber":"24", "title":"menage a troi", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"transfigurations", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"the best of both worls part 1", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"25", "title":"transfigurations", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"26", "title":"the best of both worls part 1", "mood":"general"},
 
     {"series":"tng", "season":"4", "episodeNumber":"1", "title":"the best of both worlds part 2", "mood":"general"},
     {"series":"tng", "season":"4", "episodeNumber":"2", "title":"family", "mood":"general"},
@@ -51,8 +51,8 @@
     {"series":"tng", "season":"4", "episodeNumber":"22", "title":"half a life", "mood":"general"},
     {"series":"tng", "season":"4", "episodeNumber":"23", "title":"the host", "mood":"general"},
     {"series":"tng", "season":"4", "episodeNumber":"24", "title":"the mind's eye", "mood":"happy"},
-    {"series":"tng", "season":"4", "episodeNumber":"24", "title":"in theory", "mood":"general"},
-    {"series":"tng", "season":"4", "episodeNumber":"24", "title":"redemption part 1", "mood":"general"}
+    {"series":"tng", "season":"4", "episodeNumber":"25", "title":"in theory", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"26", "title":"redemption part 1", "mood":"general"}
 ]
 }
 
