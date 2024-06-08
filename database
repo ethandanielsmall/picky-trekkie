@@ -1,33 +1,45 @@
 {
 "episodes":[
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"}
+    {"series":"tng", "season":"3", "episodeNumber":"1", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"2", "title":"the ensigns of command", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"3", "title":"the survivors", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"4", "title":"who watches the watchers", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"5", "title":"the bonding", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"6", "title":"booby trap", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"7", "title":"the enemy", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"8", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"9", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"10", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"11", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"12", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"13", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"14", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"15", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"16", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"17", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"18", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"19", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"20", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"21", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"22", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"23", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"general"}
 ]
 }
 
 db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
 
+// mood replaces. randoized q- when answered, it gives ep. 'who is ur fav st chara?' gives chara eps. 'what is ur fav st species?' gives eps with those species. everyone is asked 1 of these
 
-season: 3, episode: 2, title: "the ensigns of command", mood: "general"
-season: 3, episode: 3, title: "the survivors", mood: "general"
-season: 3, episode: 4, title: "who watches the watchers", mood: "general"
-season: 3, episode: 5, title: "the bonding", mood: "general"
-season: 3, episode: 6, title: "booby trap", mood: "general"
-season: 3, episode: 7, title: "the enemy", mood: "happy"
+
+season: 3, episode: 2, title: "", mood: "general"
+season: 3, episode: 3, title: "", mood: "general"
+season: 3, episode: 4, title: "", mood: "general"
+season: 3, episode: 5, title: "", mood: "general"
+season: 3, episode: 6, title: "", mood: "general"
+season: 3, episode: 7, title: "", mood: "happy"
 season: 3, episode: 8, title: "the price", mood: "general"
 season: 3, episode: 9, title: "the vengeance factor", mood: "general"
 season: 3, episode: 10, title: "the defector", mood: "general"
