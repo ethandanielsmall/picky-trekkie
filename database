@@ -1,0 +1,63 @@
+{
+"episodes":[
+    {"series":"John", "season":"Doe", "episodeNumber":"1", "title":"xxx", "mood":"gaooy"},
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+]
+}
+
+db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
+
+season: 3, episode: 1, title: "evolution", mood: "happy"
+season: 3, episode: 2, title: "the ensigns of command", mood: "general"
+season: 3, episode: 3, title: "the survivors", mood: "general"
+season: 3, episode: 4, title: "who watches the watchers", mood: "general"
+season: 3, episode: 5, title: "the bonding", mood: "general"
+season: 3, episode: 6, title: "booby trap", mood: "general"
+season: 3, episode: 7, title: "the enemy", mood: "happy"
+season: 3, episode: 8, title: "the price", mood: "general"
+season: 3, episode: 9, title: "the vengeance factor", mood: "general"
+season: 3, episode: 10, title: "the defector", mood: "general"
+season: 3, episode: 11, title: "the hunted", mood: "general"
+season: 3, episode: 12, title: "the high ground", mood: "general"
+season: 3, episode: 13, title: "deja q", mood: "happy"
+season: 3, episode: 14, title: "a matter of perspective", mood: "general"
+season: 3, episode: 15, title: "yesterday's enterprise", mood: "general"
+season: 3, episode: 16, title: "the offspring", mood: "general"
+season: 3, episode: 17, title: "sins of the father", mood: "general"
+season: 3, episode: 18, title: "allegiance", mood: "happy"
+season: 3, episode: 19, title: "captain's holiday", mood: "happy"
+season: 3, episode: 20, title: "tin man", mood: "general"
+season: 3, episode: 21, title: "hollow pursuits", mood: "happy"
+season: 3, episode: 22, title: "the most toys", mood: "general"
+season: 3, episode: 23, title: "sarek", mood: "general"
+season: 3, episode: 24, title: "menage a troi", mood: "happy"
+season: 3, episode: 23, title: "transfigurations", mood: "general"
+season: 3, episode: 23, title: "the best of both worls part 1", mood: "general"
+
+season: 4, episode: 1, title: "the best of both worlds part 2", mood: "general"
+season: 4, episode: 2, title: "family", mood: "general"
+season: 4, episode: 3, title: "brothers", mood: "general"
+season: 4, episode: 4, title: "suddenly human", mood: "general"
+season: 4, episode: 5, title: "remember me", mood: "general"
+season: 4, episode: 6, title: "legacy", mood: "general"
+season: 4, episode: 7, title: "reunion", mood: "general"
+season: 4, episode: 8, title: "future imperfect", mood: "general"
+season: 4, episode: 9, title: "final mission", mood: "general"
+season: 4, episode: 10, title: "the loss", mood: "general"
+season: 4, episode: 11, title: "data's day", mood: "general"
+season: 4, episode: 12, title: "the wounded", mood: "general"
+season: 4, episode: 13, title: "devil's due", mood: "general"
+season: 4, episode: 14, title: "clues", mood: "general"
+season: 4, episode: 15, title: "first contact", mood: "general"
+season: 4, episode: 16, title: "galaxy's child", mood: "general"
+season: 4, episode: 17, title: "night terrors", mood: "general"
+season: 4, episode: 18, title: "identity crisis", mood: "general"
+season: 4, episode: 19, title: "the nth degree", mood: "general"
+season: 4, episode: 20, title: "qpid", mood: "happy"
+season: 4, episode: 21, title: "the drumhead", mood: "general"
+season: 4, episode: 22, title: "half a life", mood: "general"
+season: 4, episode: 23, title: "the host", mood: "general"
+season: 4, episode: 24, title: "the mind's eye", mood: "general"
+season: 4, episode: 23, title: "in theory", mood: "happy"
+season: 4, episode: 23, title: "redemption part 1", mood: "general"
