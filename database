@@ -7,58 +7,31 @@
     {"series":"tng", "season":"3", "episodeNumber":"5", "title":"the bonding", "mood":"general"},
     {"series":"tng", "season":"3", "episodeNumber":"6", "title":"booby trap", "mood":"general"},
     {"series":"tng", "season":"3", "episodeNumber":"7", "title":"the enemy", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"8", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"9", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"10", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"11", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"12", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"13", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"14", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"15", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"16", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"17", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"18", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"19", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"20", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"21", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"22", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"23", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"happy"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"evolution", "mood":"general"}
+    {"series":"tng", "season":"3", "episodeNumber":"8", "title":"the price", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"9", "title":"the vengeance factor", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"10", "title":"the defector", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"11", "title":"the hunted", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"12", "title":"the high ground", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"13", "title":"deja q", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"14", "title":"a matter of perspective", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"15", "title":"yesterday's enterprise", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"16", "title":"the offspring", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"17", "title":"sins of the father", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"18", "title":"allegiance", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"19", "title":"captain's holiday", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"20", "title":"tin man", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"21", "title":"hollow pursuits", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"22", "title":"the most toys", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"23", "title":"sarek", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"menage a troi", "mood":"happy"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"transfigurations", "mood":"general"},
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"the best of both worls part 1", "mood":"general"}
 ]
 }
 
 db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
-
-// mood replaces. randoized q- when answered, it gives ep. 'who is ur fav st chara?' gives chara eps. 'what is ur fav st species?' gives eps with those species. everyone is asked 1 of these
-
-
-season: 3, episode: 2, title: "", mood: "general"
-season: 3, episode: 3, title: "", mood: "general"
-season: 3, episode: 4, title: "", mood: "general"
-season: 3, episode: 5, title: "", mood: "general"
-season: 3, episode: 6, title: "", mood: "general"
-season: 3, episode: 7, title: "", mood: "happy"
-season: 3, episode: 8, title: "the price", mood: "general"
-season: 3, episode: 9, title: "the vengeance factor", mood: "general"
-season: 3, episode: 10, title: "the defector", mood: "general"
-season: 3, episode: 11, title: "the hunted", mood: "general"
-season: 3, episode: 12, title: "the high ground", mood: "general"
-season: 3, episode: 13, title: "deja q", mood: "happy"
-season: 3, episode: 14, title: "a matter of perspective", mood: "general"
-season: 3, episode: 15, title: "yesterday's enterprise", mood: "general"
-season: 3, episode: 16, title: "the offspring", mood: "general"
-season: 3, episode: 17, title: "sins of the father", mood: "general"
-season: 3, episode: 18, title: "allegiance", mood: "happy"
-season: 3, episode: 19, title: "captain's holiday", mood: "happy"
-season: 3, episode: 20, title: "tin man", mood: "general"
-season: 3, episode: 21, title: "hollow pursuits", mood: "happy"
-season: 3, episode: 22, title: "the most toys", mood: "general"
-season: 3, episode: 23, title: "sarek", mood: "general"
-season: 3, episode: 24, title: "menage a troi", mood: "happy"
-season: 3, episode: 23, title: "transfigurations", mood: "general"
-season: 3, episode: 23, title: "the best of both worls part 1", mood: "general"
+// mood replacement ideas. randoized q- when answered, it gives ep. 'who is ur fav st chara?' gives chara eps.
+// 'what is ur fav st species?' gives eps with those species. everyone is asked 1 of these
 
 season: 4, episode: 1, title: "the best of both worlds part 2", mood: "general"
 season: 4, episode: 2, title: "family", mood: "general"
