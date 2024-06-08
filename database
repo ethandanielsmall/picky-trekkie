@@ -1,14 +1,27 @@
 {
 "episodes":[
-    {"series":"John", "season":"Doe", "episodeNumber":"1", "title":"xxx", "mood":"gaooy"},
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"},
+    {"series":"tng", "season":"1", "episodeNumber":"1", "title":"evolution", "mood":"happy"}
 ]
 }
 
 db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
 
-season: 3, episode: 1, title: "evolution", mood: "happy"
+
 season: 3, episode: 2, title: "the ensigns of command", mood: "general"
 season: 3, episode: 3, title: "the survivors", mood: "general"
 season: 3, episode: 4, title: "who watches the watchers", mood: "general"
