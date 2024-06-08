@@ -25,37 +25,37 @@
     {"series":"tng", "season":"3", "episodeNumber":"23", "title":"sarek", "mood":"general"},
     {"series":"tng", "season":"3", "episodeNumber":"24", "title":"menage a troi", "mood":"happy"},
     {"series":"tng", "season":"3", "episodeNumber":"24", "title":"transfigurations", "mood":"general"},
-    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"the best of both worls part 1", "mood":"general"}
+    {"series":"tng", "season":"3", "episodeNumber":"24", "title":"the best of both worls part 1", "mood":"general"},
+
+    {"series":"tng", "season":"4", "episodeNumber":"1", "title":"the best of both worlds part 2", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"2", "title":"family", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"3", "title":"brothers", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"4", "title":"suddenly human", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"5", "title":"remember me", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"6", "title":"legacy", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"7", "title":"reunion", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"8", "title":"future imperfect", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"9", "title":"final mission", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"10", "title":"the loss", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"11", "title":"data's day", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"12", "title":"the wounded", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"13", "title":"devil's due", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"14", "title":"clues", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"15", "title":"first contact", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"16", "title":"galaxy's child", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"17", "title":"night terrors", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"18", "title":"identity crisis", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"19", "title":"the nth degree", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"20", "title":"qpid", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"21", "title":"the drumhead", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"22", "title":"half a life", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"23", "title":"the host", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"24", "title":"the mind's eye", "mood":"happy"},
+    {"series":"tng", "season":"4", "episodeNumber":"24", "title":"in theory", "mood":"general"},
+    {"series":"tng", "season":"4", "episodeNumber":"24", "title":"redemption part 1", "mood":"general"}
 ]
 }
 
-db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
+// db.TNG.insertOne({season: "1", episode: 1, title: "encounter at farpoint"})
 // mood replacement ideas. randoized q- when answered, it gives ep. 'who is ur fav st chara?' gives chara eps.
 // 'what is ur fav st species?' gives eps with those species. everyone is asked 1 of these
-
-season: 4, episode: 1, title: "the best of both worlds part 2", mood: "general"
-season: 4, episode: 2, title: "family", mood: "general"
-season: 4, episode: 3, title: "brothers", mood: "general"
-season: 4, episode: 4, title: "suddenly human", mood: "general"
-season: 4, episode: 5, title: "remember me", mood: "general"
-season: 4, episode: 6, title: "legacy", mood: "general"
-season: 4, episode: 7, title: "reunion", mood: "general"
-season: 4, episode: 8, title: "future imperfect", mood: "general"
-season: 4, episode: 9, title: "final mission", mood: "general"
-season: 4, episode: 10, title: "the loss", mood: "general"
-season: 4, episode: 11, title: "data's day", mood: "general"
-season: 4, episode: 12, title: "the wounded", mood: "general"
-season: 4, episode: 13, title: "devil's due", mood: "general"
-season: 4, episode: 14, title: "clues", mood: "general"
-season: 4, episode: 15, title: "first contact", mood: "general"
-season: 4, episode: 16, title: "galaxy's child", mood: "general"
-season: 4, episode: 17, title: "night terrors", mood: "general"
-season: 4, episode: 18, title: "identity crisis", mood: "general"
-season: 4, episode: 19, title: "the nth degree", mood: "general"
-season: 4, episode: 20, title: "qpid", mood: "happy"
-season: 4, episode: 21, title: "the drumhead", mood: "general"
-season: 4, episode: 22, title: "half a life", mood: "general"
-season: 4, episode: 23, title: "the host", mood: "general"
-season: 4, episode: 24, title: "the mind's eye", mood: "general"
-season: 4, episode: 23, title: "in theory", mood: "happy"
-season: 4, episode: 23, title: "redemption part 1", mood: "general"
